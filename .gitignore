@@ -4,7 +4,7 @@ database/database.sql
 database/migrate_phppos_dist.sql
 application/config/email.php
 application/config/database.php
-.htaccess
+#.htaccess
 application/sessions/*
 application/logs/*
 application/uploads/*
